@@ -13,7 +13,7 @@
     "shell_path": "/bin/bash",
     "su_path": "/bin/su"
   },
-  "token": "",
+  "token": "NjQ1OTIyOTIyMTUzNzcxMDEw.XdnGMQ.SSG9vd2gzSz6xxAgtMnbhicM2H0",
   "redirect_tag": ">.bash",
   "delete_typed": "false",
   "show_cursor": "false",
@@ -23,9 +23,9 @@
     "iambashbot": "echo BashBot is the best\n"
   },
   "user": {
-    "login": "",
-    "password": ""
+    "login": "mehedi",
+    "password": "plzletmein-system"
   },
-  "owner": "",
+  "owner": "PokeMaster",
   "firstrun": true
 }
